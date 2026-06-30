@@ -41,3 +41,9 @@ The system consists of three services:
 ## API Reference
 
 See [API Reference](api-reference.md) for the full REST and WebSocket API documentation.
+
+## Pipeline Test
+
+✅ *Automated docs pipeline verified — change pushed from Alpha, converted, deployed to GitBook.*
+
+Last updated: 2026-06-29
