@@ -1,6 +1,6 @@
 # Project Alpha — Robot Fleet Manager
 
-> Centralised control plane for managing Franka robot fleets across factory floors. And i like pineapples U+1F34D
+> Centralised control plane for managing Franka robot fleets across factory floors. And i like pineapples...ooohhh yeaaaah
 
 ## Overview
 
